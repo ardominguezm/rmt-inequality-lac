@@ -64,7 +64,7 @@ pip install numpy pandas matplotlib scipy openpyxl
 | 2 | 2.511 | 16.7 | 8.77 |
 | 3 | 1.822 | 12.1 | 5.37 |
 
-* Exceeds Marchenko–Pastur upper bound (λ₊ = 3.333, p = 0.007, Monte Carlo n = 5,000).
+*Exceeds Marchenko–Pastur upper bound (λ₊ = 3.333, p = 0.007, Monte Carlo n = 5,000).
 
 ---
 
